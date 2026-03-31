@@ -1,4 +1,4 @@
-#include "ModelAnimationState.h"
+#include "animation/ModelAnimationState.h"
 #include <glm/gtc/quaternion.hpp>
 #include <iomanip>
 #include <iostream>

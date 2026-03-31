@@ -77,7 +77,7 @@ That means nodes without animation tracks stay at bind-pose values.
 ## Minimal usage
 
 ```cpp
-#include "ModelAnimationState.h"
+#include "animation/ModelAnimationState.h"
 
 SkeletonAssetData skeleton;
 // Fill skeleton.nodes, skeleton.skins, and skeleton.animations from your importer.

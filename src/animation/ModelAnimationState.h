@@ -1,7 +1,7 @@
 #pragma once
 
-#include "AnimationPlayback.h"
-#include "SkeletonPose.h"
+#include "animation/AnimationPlayback.h"
+#include "animation/SkeletonPose.h"
 #include <algorithm>
 #include <optional>
 

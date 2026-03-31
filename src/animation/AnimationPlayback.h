@@ -1,6 +1,6 @@
 #pragma once
 
-#include "SkeletonPose.h"
+#include "animation/SkeletonPose.h"
 #include <algorithm>
 #include <glm/gtc/quaternion.hpp>
 

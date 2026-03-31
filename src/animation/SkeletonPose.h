@@ -1,6 +1,6 @@
 #pragma once
 
-#include "SkeletonTypes.h"
+#include "animation/SkeletonTypes.h"
 #include <functional>
 #include <glm/gtc/matrix_transform.hpp>
 #include <glm/gtc/quaternion.hpp>
